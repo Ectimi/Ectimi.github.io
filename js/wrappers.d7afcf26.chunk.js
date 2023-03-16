@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[20],{usOQ:function(n,e,r){"use strict";r.r(e);var t=r("7AqN"),c=r("p46w"),s=r.n(c),a=r("nKUr");e["default"]=n=>{var e=s.a.get("credentials");return e?Object(a["jsx"])(a["Fragment"],{children:n.children}):Object(a["jsx"])(t["c"],{to:"/login"})}}}]);
